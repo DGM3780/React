@@ -4,7 +4,7 @@ For this assignement we will be exploring the React Library by Facebook.
 
 ## Assignment
 Create a small working react app. It must consist of the following:
-- 5 components
+- The app must be component based
 - Data must be passed down from parent to child components.
 
 A Todo app isn't enough for this assignment. The app needs to be an original app and not done from a tutorial.
