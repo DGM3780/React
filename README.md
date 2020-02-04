@@ -1,13 +1,13 @@
 # <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" data-canonical-src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" /> React - A JavaScript library for building user interfaces 
 
-For this assignement we will be exploring the React Library by Facebook.
+For this assignement we will be exploring the React Library by Facebook by building a simple weather app.
 
-## Assignment
-Create a small working react app. It must consist of the following:
-- The app must be component based
-- Data must be passed down from parent to child components.
-
-A Todo app isn't enough for this assignment. The app needs to be an original app and not done from a tutorial.
+## Weather App Assignment - User Stories
+- As a user, I want to be able to set my location.
+- As a user, I want to be able to view the current tempature for my location.
+- As a user, I want to choose between celius and ferinhight.
+- As a user, I want to see a 7 day forcast for my location.
+- As a user, I want to be able to see an hourly forcast for a selected day.
 
 ## Tips
 - Work though the React Tutorial on the [React Website.](reactjs.org)
