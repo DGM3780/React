@@ -4,10 +4,10 @@ For this assignement we will be exploring the React Library by Facebook by build
 
 ## Weather App Assignment - User Stories
 - As a user, I want to be able to set my location.
-- As a user, I want to be able to view the current tempature for my location.
-- As a user, I want to choose between celius and ferinhight.
-- As a user, I want to see a 7 day forcast for my location.
-- As a user, I want to be able to see an hourly forcast for a selected day.
+- As a user, I want to be able to view the current temperature for my location.
+- As a user, I want to choose between celcius and fahrenheight.
+- As a user, I want to see a 7 day forecast for my location.
+- As a user, I want to be able to see an hourly forecast for a selected day.
 
 ## Tips
 - Work though the React Tutorial on the [React Website.](reactjs.org)
